@@ -3,3 +3,7 @@
 ***REMOVED***
 
 This is from branch1
+
+This is for stashing
+
+This is for rebase
